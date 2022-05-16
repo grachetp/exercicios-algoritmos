@@ -1,0 +1,33 @@
+﻿//Exercicio 01
+//Exercicio 02
+//Exercicio 03
+//Exercicio 04
+//Exercicio 05
+//Exercicio 06
+//Exercicio 07
+//Exercicio 08
+//Exercicio 09
+//Exercicio 10
+//Exercicio 11
+//Exercicio 12
+//Exercicio 13
+//Exercicio 14
+//Exercicio 15
+//Exercicio 16
+//Exercicio 17
+//Exercicio 18
+//Exercicio 19
+//Exercicio 20
+//Exercicio 21
+//Exercicio 22
+//Exercicio 23
+//Exercicio 24
+//Exercicio 25
+//Exercicio 26
+//Exercicio 27
+//Exercicio 28
+//Exercicio 29
+//Exercicio 30
+//Exercicio 31
+
+Console.ReadLine();
